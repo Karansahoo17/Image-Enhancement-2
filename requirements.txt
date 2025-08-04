@@ -40,7 +40,7 @@ requests==2.31.0
 gdown==4.7.1
 
 # UI Framework
-gradio==4.8.0
+gradio==4.44.1
 
 # Utilities
 future==0.18.3
